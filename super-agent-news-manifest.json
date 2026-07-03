@@ -1,0 +1,62 @@
+{
+  "citations": [
+    "[getsupers.com](https://getsupers.com/)",
+    "[app.getsupers.com/docs](https://app.getsupers.com/docs)",
+    "[blog.google](https://blog.google/)",
+    "[apple.com](https://www.apple.com/)",
+    "[techcrunch.com](https://techcrunch.com/)",
+    "[securityweek.com](https://www.securityweek.com/)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=2-3 lines @1120px; bento_density=grid-auto-flow:dense verified; label_sweep=all competitors named; button_contrast=AA+",
+  "generated_at": "2026-07-03T21:36:54.272745+00:00",
+  "headline": "Text message AI assistant that actually does the work",
+  "site_brief": {
+    "audience": "people who want to text an AI assistant instead of opening another app",
+    "canonical_url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Text message AI assistant', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "text message AI assistant",
+      "SMS AI assistant",
+      "personal AI assistant by text",
+      "AI agent texting workflow automation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "text-message-ai-assistant",
+    "title": "Text message AI assistant",
+    "use_case_intent": "show how Super turns SMS-style requests into real computer actions, follow-ups, reminders, and app workflows"
+  },
+  "summary": "A practical, indexable use\u2011case page explaining how Super turns simple text messages into real computer actions \u2014 with durable workflows powered by a reusable computer-use cache. Built for people who want to text an AI assistant instead of opening another app."
+}
